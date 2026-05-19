@@ -25,8 +25,18 @@ Applied NIST incident response steps to investigate simulated alerts
 -Implemented IAM least priviledge policy followincloud security best practices
 -Enabled Cloudtrail logging for audit compliance
 
+#Addtional training
+## Proffesser Messer -CompTIA security+ SYO-701 | 2026
+-Completed modules on Threats, Attacks, Vulnerabilities and network security
+-Applied training to analyze malwaretypes andsocial engineering techniques per ISC2 Domain 1
+
+##burning ice tech -Cybersecurity bootcamp | 2026
+-Hands-on SIEM labs: Created Splunk detectionrules for brute force and priviledged escalation
+-Incident Response simulation: performed containment/eradicaton steps using NIST 800-61 framework
+-Network Reconnaissance: used NMapin legal environment to identify0pen portsand services
+
 Contact
-LinkedIn: Nomazet Mkosana | Email: mkosananomazet@gmail,com
+LinkedIn: Nomazet Mkosana | Email: mkosananomazet@gmail.com
 
 
-{
+
