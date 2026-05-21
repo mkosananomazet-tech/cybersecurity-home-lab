@@ -1,0 +1,4 @@
+###TryHackMe =Defensive Security Intro Lab | may 2026
+-Investigated SIEM dashboard alert to identify malicious IP '143.110.250.149' performing SSH brute force attacks
+-Used IP scanner to conduct reccoinaissance on that threat actor infrastructre
+Applied SOC escalation workflow to complete triage pur blue team fundamentals
